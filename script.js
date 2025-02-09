@@ -1,4 +1,4 @@
 document.getElementById("toggle-btn").addEventListener("click", function() {
     let img = document.getElementById("image");
-    img.src = img.src.includes("image1.jpg") ? "image2.jpg" : "image1.jpg";
+    img.src = img.src.includes("images/image1.jpg") ? "images/image2.jpg" : "images/image1.jpg";
 });
