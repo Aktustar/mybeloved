@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-family: "Georgia", serif;
+    font-size: 36px;
+    color: #333;
+}
+
+img {
+    width: 400px;
+    height: 300px;
+}
