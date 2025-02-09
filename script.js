@@ -3,3 +3,4 @@ function switchimage() { let img = document.getElementById("image");
 document.getElementById("toggle-btn").addEventListener("click",switchimage);    
 
 function togglebackground() { document.body.classList.toggle("dark-mode"); }
+document.getElementById("toggle-bgb").addEventListener("click",togglebackground);
